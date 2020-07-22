@@ -13,8 +13,15 @@ public static void main(String[] args)
   Scanner user_input = new Scanner(System.in);
   
   System.out.println("Would you like to play Rock, Paper, Scissors game?");
-  System.out.println("\nyes = 1 \nNo = 2 \n");
+  System.out.println("\nyes = A \nNo = B \n");
   String yesorno = user_input.nextLine();
+  //if (yesorno==A) {
+    //System.out.println(continueGame);
+  //} 
+  //else {
+    //System.out.println(endGame);
+  //}
+  
     
     //System.out.println(yesorno);
 
