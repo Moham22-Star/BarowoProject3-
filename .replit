@@ -1,1 +1,1 @@
-run = "javac Project_3_MontyHallProblem.java && java Project_3_MontyHallProblem"
+run = "javac BarowoProject3.java && java BarowoProject3"
